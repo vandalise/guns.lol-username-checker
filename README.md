@@ -1,12 +1,6 @@
 ## Demonstration
 <img src=https://i.gyazo.com/dc40cad12e984916ed90d4f70f94e7f9.gif>
 
-## Features
-
-- **Multithreaded Processing:** Utilizes multiple threads to check usernames concurrently, enhancing speed and efficiency.
-    - If you use 50 threads it will use 1 cookie for every 50 usernames checked.
-- **Proxy Rotation:** ``Put your proxies in proxies.txt``
-
 ## Installation
 
 1. Clone the repository:
