@@ -7,7 +7,7 @@
 
    ```bash
    git clone https://github.com/vandalise/guns.lol-username-checker.git
-   cd noplace-username-checker
+   cd guns.lol-username-checker
    ```
 2. Install dependencies:
     ```bash
