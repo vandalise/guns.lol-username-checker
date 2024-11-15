@@ -4,7 +4,7 @@
 ## Features
 
 - **Multithreaded Processing:** Utilizes multiple threads to check usernames concurrently, enhancing speed and efficiency.
-    - If you use 50 threads it will use *1 cookie for every 50 usernames checked.
+    - If you use 50 threads it will use 1 cookie for every 50 usernames checked.
 - **Proxy Rotation:** Automatically fetches and rotates proxies to avoid detection and maintain anonymity.
 
 ## Installation
