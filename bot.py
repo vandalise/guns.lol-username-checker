@@ -1,7 +1,7 @@
-import random, os, ctypes, httpx, threading, time
-from colorama import init, Fore
-import sys
+import random, ctypes, httpx, threading, time, sys, os
 from fake_useragent import UserAgent
+from colorama import init, Fore
+
 ua = UserAgent()
 
 init()
